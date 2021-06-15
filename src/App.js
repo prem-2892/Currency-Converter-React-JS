@@ -52,8 +52,8 @@ function App() {
 
     return (
         <>
-            <h4 className="display-6 mb-3">Currency Converter</h4>
-            <div className="App container-fluid">
+            <h4 className="h4 mb-3">Currency Converter</h4>
+            <div className="App container-fluid container-lg">
                 <Error isError={error} />
                 <CurrencyRow
                     currencyOptions={currencyOptions}
