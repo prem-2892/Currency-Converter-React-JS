@@ -52,3 +52,13 @@ h4 {
 .warn {
     display: none;
 }
+
+.footer {
+    position: fixed;
+    background: transparent;
+    left: 0px;
+    bottom: 30px;
+    height: 30px;
+    width: 100%;
+    color: black;
+}

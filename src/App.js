@@ -74,6 +74,11 @@ function App() {
                 ></input>
                 <h3 className="result alert alert-success">{result}</h3>
             </div>
+            <footer className="footer">
+                <div className="text-center p-4">
+                    Coded and maintained with ❤️. Prem Goswami
+                </div>
+            </footer>
         </>
     );
 }
